@@ -49,6 +49,7 @@ services:
                 uuid: exact
                 owner: exact
                 ownerUuid: exact
+                staff.uuid: exact
         tags:
             - { name: api_platform.filter, id: ds.staff_persona.search }
 
