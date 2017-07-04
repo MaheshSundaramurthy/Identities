@@ -1,0 +1,11 @@
+staff_personas: []
+
+prototype:
+    staff: ~
+    uuid: ~
+    owner: Business Unit
+    owner_uuid: ~
+    title:
+        en: Default
+        fr: Défaut
+    data: []
